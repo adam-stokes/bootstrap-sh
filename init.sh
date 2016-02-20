@@ -1,5 +1,5 @@
 #!/bin/bash -eu
 
-pkgs="vcsh keychain git"
+pkgs="vcsh keychain git emacs24"
 
 sudo apt-get -qyf install $pkgs
